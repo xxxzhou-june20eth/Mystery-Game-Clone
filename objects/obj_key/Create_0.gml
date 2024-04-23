@@ -1,3 +1,6 @@
-text_line=obj_chat_bedroom.bedroom.interactables.obj_key.lines
+text_line=obj_chat_bedroom.text_line.interactables.obj_key.lines;
+line_number=0;
 
-has_key=false
+branch_line=[];
+
+interactable=false;
