@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "rm_bedroom",
+    "path": "folders/Objects/rm_bedroom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

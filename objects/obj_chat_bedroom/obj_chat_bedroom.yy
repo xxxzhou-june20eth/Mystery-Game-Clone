@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "chat_manage",
-    "path": "folders/Objects/chat_manage.yy",
+    "name": "rm_bedroom",
+    "path": "folders/Objects/rm_bedroom.yy",
   },
   "parentObjectId": {
     "name": "obj_chat_manager",
