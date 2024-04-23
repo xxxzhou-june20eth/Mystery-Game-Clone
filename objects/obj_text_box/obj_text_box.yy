@@ -30,10 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
+  "spriteId": null,
+  "spriteMaskId": {
     "name": "spr_text_box",
     "path": "sprites/spr_text_box/spr_text_box.yy",
   },
-  "spriteMaskId": null,
   "visible": true,
 }

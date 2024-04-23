@@ -1,4 +1,6 @@
 visible=false;
+drawing=false;
+dsprite=false;
 
 //text box parameters;
 textbox_width=500;

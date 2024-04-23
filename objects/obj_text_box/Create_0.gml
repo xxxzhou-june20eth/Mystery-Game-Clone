@@ -12,3 +12,5 @@ setup=false;
 line_number=0;
 
 text="";
+
+drawing=false;

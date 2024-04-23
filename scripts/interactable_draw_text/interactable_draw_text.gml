@@ -5,6 +5,12 @@ function interactable_draw_text(text_line){
 		obj_text_box_interactables.text=text_line[line_number].text;
 		obj_text_box_interactables.visible=true;	
 	}
+	obj_text_box_interactables.drawing=false;
+	if (struct_exists(text_line[line_number],"speaker")){
+		obj_text_box_interactables.drawing=true;
+		obj_text_box_interactables.dsprite=sprite_index;
+	}
+		
 }
 
 

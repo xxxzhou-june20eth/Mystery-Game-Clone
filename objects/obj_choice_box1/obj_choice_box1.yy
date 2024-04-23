@@ -30,10 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
+  "spriteId": null,
+  "spriteMaskId": {
     "name": "spr_choice_box",
     "path": "sprites/spr_choice_box/spr_choice_box.yy",
   },
-  "spriteMaskId": null,
   "visible": true,
 }
